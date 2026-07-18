@@ -49,6 +49,6 @@ The platform is simple, user-friendly, and completely free to use.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To promote financial responsibility among children while providing parents with an easy way to monitor and manage daily expenses.
