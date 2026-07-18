@@ -1,6 +1,6 @@
 # SMARTSPEND
 Track your child’s daily expenses. Build smarter money habits. 
-# 💰 SMARTSPEND
+#  SMARTSPEND
 
 SmartSpend is a web-based financial management platform designed to help parents monitor their child's daily expenses, set spending limits, and encourage responsible money management.
 
